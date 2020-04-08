@@ -64,7 +64,7 @@ $$
 
  다음식을 코드화하면
 
-![스트라센 알고리즘_1](C:\Users\SAMSUNG\heohyeon1452\image\스트라센 알고리즘_1.PNG)
+![스트라센 알고리즘_1.PNG](C:\Users\SAMSUNG\heohyeon1452\image\스트라센 알고리즘_1.PNG)
 
 ![스트라센 알고리즘_2](C:\Users\SAMSUNG\heohyeon1452\image\스트라센 알고리즘_2.PNG)
 
