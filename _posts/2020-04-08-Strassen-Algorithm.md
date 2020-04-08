@@ -60,13 +60,13 @@ $$
 
 ## 스트라센 행렬 알고리즘
 
-![스트라센 알고리즘](C:\Users\SAMSUNG\heohyeon1452\image\스트라센 알고리즘.PNG)
+![스트라센알고리즘](C:\Users\SAMSUNG\heohyeon1452\image\스트라센알고리즘.PNG)
 
  다음식을 코드화하면
 
-![스트라센 알고리즘_1.PNG](C:\Users\SAMSUNG\heohyeon1452\image\스트라센 알고리즘_1.PNG)
+![스트라센알고리즘_1](C:\Users\SAMSUNG\heohyeon1452\image\스트라센알고리즘_1.PNG)
 
-![스트라센 알고리즘_2](C:\Users\SAMSUNG\heohyeon1452\image\스트라센 알고리즘_2.PNG)
+![스트라센알고리즘_2](C:\Users\SAMSUNG\heohyeon1452\_posts\스트라센알고리즘_2.PNG)
 
 
 
