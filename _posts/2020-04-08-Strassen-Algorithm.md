@@ -63,13 +63,13 @@ $$
 
 ## 스트라센 행렬 알고리즘
 
-![]("/assets/image/스트라센알고리즘.PNG")
+![스트라센알고리즘](https://user-images.githubusercontent.com/62735361/78960240-703a5200-7b28-11ea-8128-931e21745f39.PNG)
 
  다음식을 코드화하면
 
-![스트라센알고리즘_1](C:\Users\SAMSUNG\heohyeon1452\image\스트라센알고리즘_1.PNG)
+![스트라센알고리즘_1](https://user-images.githubusercontent.com/62735361/78960244-716b7f00-7b28-11ea-98e1-e41b35c5b19a.PNG)
 
-![스트라센알고리즘_2](C:\Users\SAMSUNG\heohyeon1452\_posts\스트라센알고리즘_2.PNG)
+<img src="https://user-images.githubusercontent.com/62735361/78960246-716b7f00-7b28-11ea-8e69-1221f764290d.PNG" alt="스트라센알고리즘_2" style="zoom:150%;" />
 
 
 
