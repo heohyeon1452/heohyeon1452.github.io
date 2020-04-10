@@ -2,7 +2,7 @@
 layout: single
 title: "스트라센 알고리즘"
 date: 2020-04-08 18:00:00 +0900
-categories: jekyll update
+categories: Algorisim INU Homework
 
 ---
 
